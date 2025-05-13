@@ -1,19 +1,13 @@
-import tailwindcss from 'tailwindcss'
-// Or if using it as a plugin
 import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react' // If using React
+import react from '@vitejs/plugin-react'
+import tailwind from '@tailwindcss/vite'
+import autoprefixer from 'autoprefixer' // Only adding this import to fix the reference error
 
 export default defineConfig({
   plugins: [
     react(),
-    // Configure tailwind as a PostCSS plugin
+    tailwind(),
+    // No PostCSS configuration
   ],
-  css: {
-    postcss: {
-      plugins: [
-        tailwindcss,
-        autoprefixer,
-      ],
-    },
-  },
+  // No PostCSS configuration here either
 })
