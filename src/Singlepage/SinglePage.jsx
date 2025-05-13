@@ -295,7 +295,6 @@ const properties = [
      "/images/room7.jpg",
      "/images/7a.jpg",
      "/images/7b.jpg",
-
      
     ],
     details: {
@@ -340,9 +339,9 @@ const properties = [
     priceLabel: "Rs. 20,000/month",
     description: "Unique jungle-side cottage just minutes from Chitwan National Park. Wake up to sounds of birds and wildlife.",
     images: [
-      "/src/assets/images/room7.jpg",
-      "/src/assets/images/7a.jpg",
-      "/src/assets/images/7b.jpg",
+      "/images/room8.jpg",
+      "/images/8a.jpg",
+      "/images/8b.jpg",
     ],
     details: {
       bedrooms: 2,
@@ -386,9 +385,9 @@ const properties = [
     priceLabel: "Rs. 15,000/month",
     description: "Serene accommodation near the sacred Maya Devi Temple. Ideal for pilgrims and those seeking spiritual retreat.",
     images: [
-      "/src/assets/images/room8.jpg",
-      "/src/assets/images/8a.jpg",
-      "/src/assets/images/8b.jpg",
+      "/images/room9.jpg",
+      "/images/9a.jpg",
+      "/images/9b.jpg",
     ],
     details: {
       bedrooms: 1,
@@ -432,9 +431,9 @@ const properties = [
     priceLabel: "Rs. 24,000/month",
     description: "Rustic yet comfortable accommodation in the heart of the Himalayas. Perfect base for trekkers and adventure seekers.",
     images: [
-      "/src/assets/images/room9.jpg",
-      "/src/assets/images/9a.jpg",
-      "/src/assets/images/9b.jpg",
+      "/images/room10.jpg",
+      "/images/10a.jpg",
+      "/images/10b.jpg",
     ],
     details: {
       bedrooms: 2,
@@ -477,9 +476,9 @@ const properties = [
     priceLabel: "Rs. 35,000/month",
     description: "Comfortable apartment with stunning Everest views. Ideal for trekkers preparing for or recovering from their journey.",
     images: [
-    '/src/assets/images/room10.jpg',
-    '/src/assets/images/10a.jpg',
-    '/src/assets/images/10b.jpg'
+    '/images/room11.jpg',
+    '/images/11a.jpg',
+    '/images/11b.jpg'
     ],
     details: {
       bedrooms: 2,
@@ -523,9 +522,9 @@ const properties = [
     priceLabel: "Rs. 19,000/month",
     description: "Traditional Mustangi home with breathtaking valley views. Experience authentic Himalayan culture in comfort.",
     images: [
-      "/src/assets/images/room12.jpg",
-      "/src/assets/images/12a.jpg",
-      "/src/assets/images/12b.jpg",
+      "/images/room12.jpg",
+      "/images/12a.jpg",
+      "/images/12b.jpg",
     ],
     details: {
       bedrooms: 2,
