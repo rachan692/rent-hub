@@ -259,7 +259,7 @@ const Home = () => {
               {/* Main Building Image */}
               <div className="absolute right-12 top-24 z-10 w-64 h-80">
                 <img 
-                  src="/src/assets/images/building1.avif" 
+                  src="/public/images/building1.avif" 
                   alt="Modern glass office building in Kathmandu" 
                   className="rounded-lg shadow-lg object-cover w-full h-full"
                 />
@@ -268,7 +268,7 @@ const Home = () => {
               {/* Secondary Building Image */}
               <div className="absolute right-48 bottom-8 z-20 w-56 h-64">
                 <img 
-                  src="/src/assets/images/building3.webp" 
+                  src="/public/images/building3.webp" 
                   alt="Luxury apartment building in Nepal" 
                   className="rounded-lg shadow-lg object-cover w-full h-full"
                 />
