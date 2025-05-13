@@ -7,7 +7,7 @@ export const propertyData = [
     priceLabel: "Rs. 32,000/month",
     bedrooms: 2,
     bathrooms: 1,
-    image: "/public/images/room1.jpg",
+    image: "/images/room1.jpg",
     priceRange: "30-40k"
   },
   {
@@ -18,7 +18,7 @@ export const propertyData = [
     priceLabel: "Rs. 45,000/month",
     bedrooms: 3,
     bathrooms: 2,
-    image: "/public/images/room2.jpg",
+    image: "/images/room2.jpg",
     priceRange: "40-50k"
   },
   {
@@ -29,7 +29,7 @@ export const propertyData = [
     priceLabel: "Rs. 18,000/month",
     bedrooms: 1,
     bathrooms: 1,
-    image: "/public/images/room3.jpg",
+    image: "/images/room3.jpg",
     priceRange: "10-20k"
   },
   {
@@ -40,7 +40,7 @@ export const propertyData = [
     priceLabel: "Rs. 25,000/month",
     bedrooms: 2,
     bathrooms: 1,
-    image: "/public/images/room1.jpg",
+    image: "/images/room1.jpg",
     priceRange: "20-30k"
   },
   {
@@ -51,7 +51,7 @@ export const propertyData = [
     priceLabel: "Rs. 55,000/month",
     bedrooms: 3,
     bathrooms: 2,
-    image: "/public/images/room5.jpg",
+    image: "/images/room5.jpg",
     priceRange: "50-60k"
   },
   {
@@ -62,7 +62,7 @@ export const propertyData = [
     priceLabel: "Rs. 22,000/month",
     bedrooms: 1,
     bathrooms: 1,
-    image: "/public/images/room6.jpg",
+    image: "/images/room6.jpg",
     priceRange: "20-30k"
   },
   {
@@ -73,7 +73,7 @@ export const propertyData = [
     priceLabel: "Rs. 28,000/month",
     bedrooms: 2,
     bathrooms: 1,
-    image: "/public/images/room7.jpg",
+    image: "/images/room7.jpg",
     priceRange: "20-30k"
   },
   {
@@ -84,7 +84,7 @@ export const propertyData = [
     priceLabel: "Rs. 20,000/month",
     bedrooms: 2,
     bathrooms: 1,
-    image: "/public/images/room8.jpg",
+    image: "/images/room8.jpg",
     priceRange: "20-30k"
   },
   {
@@ -95,7 +95,7 @@ export const propertyData = [
     priceLabel: "Rs. 15,000/month",
     bedrooms: 1,
     bathrooms: 1,
-    image: "/public/images/room9.jpg",
+    image: "/images/room9.jpg",
     priceRange: "10-20k"
   },
   {
@@ -106,7 +106,7 @@ export const propertyData = [
     priceLabel: "Rs. 24,000/month",
     bedrooms: 2,
     bathrooms: 1,
-    image: "/public/images/room10.jpg",
+    image: "/images/room10.jpg",
     priceRange: "20-30k"
   },
   {
@@ -117,7 +117,7 @@ export const propertyData = [
     priceLabel: "Rs. 35,000/month",
     bedrooms: 2,
     bathrooms: 2,
-    image: "/public/images/room11.jpg",
+    image: "/images/room11.jpg",
     priceRange: "30-40k"
   },
   {
@@ -128,7 +128,7 @@ export const propertyData = [
     priceLabel: "Rs. 19,000/month",
     bedrooms: 2,
     bathrooms: 1,
-    image: "/public/images/room12.jpg",
+    image: "/images/room12.jpg",
     priceRange: "10-20k"
   },
 ];

@@ -11,9 +11,9 @@ const properties = [
     priceLabel: "Rs. 32,000/month",
     description: "Premium suite in Kathmandu's most prestigious area. Features modern furnishings, high-speed internet, and 24/7 security. Walking distance to major attractions.",
     images: [
-      "/public/images/room1.jpg",
-      "/public/images/1a.jpg",
-      "/public/images/1b.jpg",
+      "/images/room1.jpg",
+      "/images/1a.jpg",
+      "/images/1b.jpg",
     
     ],
     details: {
@@ -57,9 +57,9 @@ const properties = [
     priceLabel: "Rs. 45,000/month",
     description: "Large apartment in vibrant Thamel area. Perfect for those who want to be in the center of Kathmandu's nightlife and cultural scene.",
     images: [
-     "/public/images/room2.jpg",
-     "/public/images/2a.jpg",
-     "/public/images/2b.jpg",
+     "/images/room2.jpg",
+     "/images/2a.jpg",
+     "/images/2b.jpg",
       
     ],
     details: {
@@ -104,9 +104,9 @@ const properties = [
     priceLabel: "Rs. 18,000/month",
     description: "Cozy studio apartment with breathtaking views of Phewa Lake. Ideal for solo travelers or couples. Includes basic kitchenette.",
     images: [
-     "/public/images/room3.jpg",
-     "/public/images/3a.jpg",
-     "/public/images/3b.jpg",
+     "/images/room3.jpg",
+     "/images/3a.jpg",
+     "/images/3b.jpg",
      
     ],
     details: {
@@ -151,9 +151,9 @@ const properties = [
     priceLabel: "Rs. 25,000/month",
     description: "Contemporary flat offering stunning panoramic views of Phewa Lake and the Annapurna range. Recently renovated with modern amenities.",
     images: [
-      "/public/images/room4.jpg",
-      "/public/images/4a.jpg",
-      "/public/images/4b.jpg",
+      "/images/room4.jpg",
+      "/images/4a.jpg",
+      "/images/4b.jpg",
    
     ],
     details: {
@@ -198,9 +198,9 @@ const properties = [
     priceLabel: "Rs. 55,000/month",
     description: "Beautifully restored Newari heritage home just steps from Patan Durbar Square. Combines traditional architecture with modern comforts.",
     images: [
-     "/public/images/room5.jpg",
-     "/public/images/5a.jpg",
-     "/public/images/5b.jpg",
+     "/images/room5.jpg",
+     "/images/5a.jpg",
+     "/images/5b.jpg",
       
     ],
     details: {
@@ -245,9 +245,9 @@ const properties = [
     priceLabel: "Rs. 22,000/month",
     description: "Authentic Newari-style apartment in the heart of Bhaktapur. Features traditional woodwork and a peaceful courtyard.",
     images: [
-      "/public/images/room6.jpg",
-      "/public/images/6a.jpg",
-      "/public/images/6b.jpg",
+      "/images/room6.jpg",
+      "/images/6a.jpg",
+      "/images/6b.jpg",
     
     ],
     details: {
@@ -292,9 +292,9 @@ const properties = [
     priceLabel: "Rs. 28,000/month",
     description: "Peaceful hillside retreat offering spectacular sunrise views over the Himalayas. Perfect for nature lovers and writers.",
     images: [
-     "/public/images/room7.jpg",
-     "/public/images/7a.jpg",
-     "/public/images/7b.jpg",
+     "/images/room7.jpg",
+     "/images/7a.jpg",
+     "/images/7b.jpg",
 
      
     ],
